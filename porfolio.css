@@ -177,15 +177,11 @@ h1 span {
       grid-template-columns: 1fr 1fr;
       gap: 4rem;
       align-items: center;
-      margin-top: -100px;
     }
 
     .about-text p {
       color: #888;
       margin-bottom: 1rem;
-      
-      font-size: 20px;
-      margin-top: 30px;
     }
 
 .about-text p strong {
@@ -199,17 +195,6 @@ display: flex;
       margin-top: 1.5rem;
 }
 
-    .skill-tag1 {
-      background:#1a1a1e;
-      border: 1px solid #2a2a30;
-      padding: 0.35rem 0.9rem;
-      border-radius: 4px;
-      font-size: 0.85rem;
-      color: #e8e8e8;
-      display: inline-block;
-      width: auto;
-      
-    }
 
         .skill-tag {
       background:#1a1a1e;
@@ -218,24 +203,9 @@ display: flex;
       border-radius: 4px;
       font-size: 0.85rem;
       color: #e8e8e8;
-      display: inline-block;
-      width: auto;
-      margin-top: 80px;
-    }
+      }
 
-    img {
-      width: 60%;
-      aspect-ratio: 1;
-      border-radius: 16px;
-      border: 1px solid var(--border);
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      font-size: 9rem;
-      margin-top: 80px;
-      margin-left: 150px;
-    }
-
+    
         #projects {
       border-top: 1px solid  #2a2a30;
         margin-top: 90px;
